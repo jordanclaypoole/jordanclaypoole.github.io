@@ -1,0 +1,212 @@
+
+#main_nav a:hover{
+	font-weight: bold;
+	color: black;
+}
+#main_nav li {
+	display: inline-block;
+	width: 200px;
+	text-align: center;
+	margin-left: 75px;
+}
+#main_nav a{
+	text-decoration: none;
+	color: black;
+}
+ #header{
+	background-color: #99ccff;
+	border-radius: 10px;
+ }
+
+#hawk_logo{
+	text-align: center;
+	margin-top: 150px;
+	margin-bottom: 83px;
+}
+h1{
+	 text-align: center;
+	  border-bottom: 5px solid black;
+}
+h2{
+	text-align: center;
+	
+}
+h3{
+	text-align: center;	
+}
+#street{
+	text-align: center;
+}
+#town{
+	text-align: center;
+}
+#phone{
+	text-align: center;
+	
+}
+#email{
+	text-align: center;
+	border-bottom: 2px solid black;
+}
+#education{
+	border-bottom: 2px solid black;
+}
+#education li{
+	margin-left: 500px;
+	}
+#Activities{
+	border-bottom: 2px solid black;
+}
+#Activities li{
+	margin-left: 500px;
+}
+#skills li{
+	margin-left: 500px;
+}
+#skills{
+	margin-bottom: 120px;
+	
+}
+#artifacts{
+	
+	
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+	
+}
+#soccer{
+	border-bottom: 2px solid black;
+	margin-top: 10px;
+	font-size: 20px;
+	margin-bottom: 20px;
+	padding: 5px;
+	border-top: 2px solid black;
+}
+#ball{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 40px;
+	margin-left: 25px;
+	margin-top: 35px;
+}
+#lamp{
+	border-bottom: 2px solid black;
+	margin-top: 10px;
+	font-size: 20px;
+	margin-bottom: 20px;
+	float: left;
+	padding: 5px;
+}
+h5{
+	text-align:center;
+	
+}
+#light{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 40px;
+	margin-left: 25px;
+}
+#guitar{
+	border-bottom: 2px solid black;
+	margin-top: 10px;
+	font-size: 20px;
+	margin-bottom: 20px;
+	padding: 5px;
+}
+#music{
+	float:left;
+	margin-right: 20px;
+	margin-bottom: 40px;
+	margin-left: 25px;
+}
+#baseball{
+	margin-top: 35px;
+	font-size: 20px;
+	margin-bottom: 60px;
+	border-bottom: 2px solid black;
+	padding: 5px;
+}
+
+#ball{
+	
+	margin-right: 20px;
+	margin-bottom: 50px;
+	margin-left: 25px;
+}
+#ball_bat{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 50px;
+	margin-left: 25px;
+}
+#five{	
+	border-bottom: 2px solid black;
+	margin-top: 5px;
+	font-size: 20px;
+	padding: 5px;
+	
+}
+#run{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 40px;
+	margin-left: 25px;
+}
+#coach{
+	
+	margin-top: 10px;
+	font-size: 20px;
+	margin-bottom: 20px;
+	border-bottom: 2px solid black;
+	padding: 5px;
+	
+}
+#whistle{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 40px;
+	margin-left: 25px;
+}
+#me{
+	font-size: 20px;
+	line-height: 200%;
+	margin-top: 50px;
+	margin-bottom: 170px;
+	
+}
+#about h2{
+	margin-left: 550px;
+	margin-bottom: 40px;
+}
+#about p {
+	margin-left: 100px;
+}
+#Jordan_Claypoole{
+	text-decoration: underline;
+	text-align:center;
+}
+#picture_me{
+	margin-left: 550px;
+}
+#footer{
+	padding: 10px;
+	margin-top: 20px;
+	background-color: #99ccff;
+	border-radius: 10px;	
+}
+#main_footer a:hover{
+	font-weight: bold;
+	color: black;
+}
+#main_footer li {
+	display: inline-block;
+	width: 200px;
+	text-align: center;
+	margin-left: 75px;
+}
+#main_footer a{
+	text-decoration: none;
+	color: black;
+}
